@@ -23,12 +23,13 @@ Respond to user interactions.
 - Ensure semantic correctness.
 
 # Here is the demo of my game  
-[image](./demo/one.png)
-[image](./demo/two.png)
-[image](./demo/three.png)
-[image](./demo/four.png)
-[image](./demo/five.png)
-[image](./demo/ten.png)
+![image](./demo/one.png)  
+![image](./demo/two.png)  
+![image](./demo/three.png)  
+![image](./demo/four.png)  
+![image](./demo/five.png)  
+![image](./demo/ten.png)
+
 
 ---
 
