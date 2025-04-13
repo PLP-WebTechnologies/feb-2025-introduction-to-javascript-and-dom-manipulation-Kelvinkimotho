@@ -1,0 +1,41 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+    background-color: #fffae3;
+    transition: background-color 0.3s ease;
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    transition: color 0.3s ease;
+  }
+  
+  button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+  }
+  
+  #score-display {
+    font-size: 1.5rem;
+    margin-top: 15px;
+  }
+  
+  #win-message {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #4caf50;
+    margin-top: 20px;
+  }
+  
